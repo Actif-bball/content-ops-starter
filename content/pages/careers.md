@@ -3,7 +3,7 @@ title: schedule AN APPOINTMENT
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Want to schedule an appointment?
       color: text-dark
       styles:
         self:
